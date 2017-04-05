@@ -1,0 +1,6 @@
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\bin\Debug\Crowd_Console.exe.config
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\bin\Debug\Crowd_Console.exe
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\bin\Debug\Crowd_Console.pdb
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\obj\Debug\Crowd_Console.csprojResolveAssemblyReference.cache
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\obj\Debug\Crowd_Console.exe
+E:\vs2012\1progs\4thSemestr\Crowd_Console\Crowd_Console\obj\Debug\Crowd_Console.pdb
